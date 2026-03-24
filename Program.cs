@@ -13,6 +13,12 @@ namespace HelloWorld
 
         public void Function() 
         {
-            Console.WriteLine("This is the first exercise!");        }
+            Console.WriteLine("This is the first exercise!");        
+        }
+
+        public int Addition(int x, int y)
+        {
+            return x + y;
+        }
     }
 }
