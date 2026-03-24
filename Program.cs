@@ -20,5 +20,10 @@ namespace HelloWorld
         {
             return x + y;
         }
+
+        public void Goodbye() 
+        {
+            Console.WriteLine("Can't wait to got home!");
+        }
     }
 }
