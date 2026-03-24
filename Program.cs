@@ -10,5 +10,9 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
         }
+
+        public void Function() 
+        {
+            Console.WriteLine("This is the first exercise!");        }
     }
 }
